@@ -10,3 +10,7 @@ I started with splitting the dataset into 80%-20% ratio. For variable selection,
 
 ## Models Used
 Two HP neural networks nodes and two gradient boosting nodes were run, and then the average of them was used for the final predictions. The “HP neural networks” and the “Gradient Boosting” nodes were used for this, and an ensemble node was utilized to average the results. 
+
+## Results
+
+An accuracy of 97.42% was achieved on Kaggle public leaderboard
